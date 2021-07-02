@@ -1,6 +1,6 @@
 import React from 'react'
 import "firebase/app"
-import { GoogleOutlined , FacebookOutlined} from '@ant-design/icons';
+import { GoogleOutlined } from '@ant-design/icons';
 import {auth} from '../firebase/firebase.utils'
 import firebase from 'firebase/app';
 
